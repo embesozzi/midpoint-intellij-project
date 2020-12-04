@@ -1,0 +1,4 @@
+<role xmlns="http://midpoint.evolveum.com/xml/ns/public/common/common-3" oid="5342282a-bee1-4b88-bb77-11b0434ac3ec">
+    <name>role-test</name>
+    <description>role-test-description-mod</description>
+</role>
